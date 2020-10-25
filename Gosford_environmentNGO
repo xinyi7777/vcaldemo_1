@@ -3509,49 +3509,6 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              151.3491153717041,
-              -33.44035876612831
-            ],
-            [
-              151.35027408599854,
-              -33.441182418298645
-            ],
-            [
-              151.3507890701294,
-              -33.44308036961665
-            ],
-            [
-              151.35156154632568,
-              -33.44300874956607
-            ],
-            [
-              151.35272026062012,
-              -33.44146890417716
-            ],
-            [
-              151.3522481918335,
-              -33.43974997471589
-            ],
-            [
-              151.34993076324463,
-              -33.4388546854669
-            ],
-            [
-              151.3491153717041,
-              -33.44035876612831
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
         "stroke": "#e393cb",
         "stroke-width": 2,
@@ -3993,6 +3950,198 @@
               -33.40185325796413
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#18a060",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "New COSS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.32495403289795,
+          -33.43319624372938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#18a060",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "COSS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.35915756225586,
+          -33.42413480595597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdd00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "heritage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.34342908859253,
+          -33.41899479533752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdd00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "heritage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.34459853172302,
+          -33.4277344231446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdd00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "heritage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3414764404297,
+          -33.423490082639084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffd300",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "heritage-cemetery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.34930849075317,
+          -33.417078406888116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdd00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "heritage-Gosford Anglican Rectory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.34150862693787,
+          -33.43111004791146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdd00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "heritage-Gosford School of Arts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3412618637085,
+          -33.429050663801156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdd00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "heritage-Gosford School of Arts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.34199142456055,
+          -33.42993710034265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdd00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "heritage-Rotary Club Fountain and Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3423240184784,
+          -33.42354380976503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdd00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "heritage-war memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.34061813354492,
+          -33.431763668304725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdd00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "heritage- Mite 10, 299-309 Mann Street,"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.34304285049438,
+          -33.4209200962818
         ]
       }
     }

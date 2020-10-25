@@ -4144,6 +4144,102 @@
           -33.4209200962818
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffd300",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "heritage-feature trew"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.342431306839,
+          -33.42737625896722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdd00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "heritage-Central Coast Council Administration Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.34196192026138,
+          -33.428338821842765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdd00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "heritage-feature avenue tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.33714199066162,
+          -33.42928346619368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdd00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "heritage-Gosford showground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.34234547615048,
+          -33.41440076528355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdd00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "heritage -sandstone retaining wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.34129136800766,
+          -33.43165398577422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdd00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "heritage-sandstone retaining wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.34179025888443,
+          -33.43168756207379
+        ]
+      }
     }
   ]
 }
